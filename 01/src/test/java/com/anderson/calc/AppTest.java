@@ -16,4 +16,11 @@ public class AppTest
         int sum = addition.addNumbers(2, 2);
         assertEquals(4, sum);
     }
+    
+	public void testSubtract()
+	{
+		Subtraction subtraction = new Subtraction();
+		int subTest = subtraction.subtractNumbers(5, 2);
+		assertEquals(3, subTest);
+	}
 }
