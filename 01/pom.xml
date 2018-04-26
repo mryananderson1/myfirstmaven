@@ -5,7 +5,7 @@
   <groupId>com.anderson.calc</groupId>
   <artifactId>01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>01</name>
   <url>http://maven.apache.org</url>
